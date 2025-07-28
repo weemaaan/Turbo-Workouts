@@ -4,7 +4,7 @@ This repository contains a collection of structured turbo trainer workout files,
 
 ## 📂 What's Inside
 
-You'll find a variety of text-based workout files (e.g., `.zwo`, `.mrc`, or plain `.txt`) that target specific training goals such as:
+You'll find a variety of text-based workout files (e.g., `.zwo`) that target specific training goals such as:
 
 - FTP development  
 - VO₂ max intervals  
