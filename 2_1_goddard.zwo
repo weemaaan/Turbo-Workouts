@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>2 1 goddard</name>
+    <description>Goddard consists of all sorts of form work including Isolated Leg Training (ILT), Form Sprints and Cadence Spin-Ups.&lt;br /&gt;&lt;br /&gt;After 3x3-minute ILT drills you'll face 10x30-second Form Sprints with 90 seconds of rest between each.&lt;br /&gt;&lt;br /&gt;Then, you'll see a second, shorter 3x2-minute round of ILT and finish with 2x6-minute Cadence Spin-Ups with 3 minutes of recovery between them.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <IntervalsT OnPower="1.1" OffPower="0.6" show_avg="1" Repeat="10" OffDuration="90" OnDuration="30">
+            <textevent message="10x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.96" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.96" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="60"/>
+        <Ramp PowerHigh="0.3" PowerLow="0.4" Duration="120"/>
+    </workout>
+</workout_file>

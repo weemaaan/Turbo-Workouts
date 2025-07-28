@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>1 5 koip</name>
+    <description>Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between 60-75% FTP. Optional form drills include Form Sprints and Endurance Spinning</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Ramp PowerHigh="0.6" PowerLow="0.5" Duration="480"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="1680"/>
+        <Ramp PowerHigh="0.65" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="660"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.65" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="1200"/>
+        <Ramp PowerHigh="0.6" PowerLow="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="840"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="780"/>
+        <Ramp PowerHigh="0.65" PowerLow="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="1560"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.65" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="960"/>
+        <Ramp PowerHigh="0.5" PowerLow="0.7" Duration="480"/>
+    </workout>
+</workout_file>

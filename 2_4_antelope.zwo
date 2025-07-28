@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>2 4 antelope</name>
+    <description>Antelope is 5x10-minute Sweet Spot intervals ranging between 88-94% FTP with 5-minute recoveries between intervals. Shoot for a cadence in the 85-95rpm range, but feel free to venture outside of this range if your target events rely on quicker or slower spins.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="600"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="600"/>
+        <IntervalsT OnPower="0.4" OffPower="0.93" show_avg="1" Repeat="2" OffDuration="600" OnDuration="300">
+            <textevent message="2x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="600"/>
+        <Ramp PowerHigh="0.3" PowerLow="0.4" Duration="300"/>
+    </workout>
+</workout_file>

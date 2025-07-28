@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>2 3 monitor</name>
+    <description>Monitor is 6x6-minute intervals of rolling Sweet Spot (88-94% FTP) with 2-minute active recoveries between each interval.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Ramp PowerHigh="0.6" PowerLow="0.5" Duration="240"/>
+        <Ramp PowerHigh="0.9" PowerLow="0.85" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="240"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="360"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="360"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.94" Duration="360"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="360"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.94" Duration="360"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="360"/>
+        <Ramp PowerHigh="0.3" PowerLow="0.4" Duration="240"/>
+    </workout>
+</workout_file>

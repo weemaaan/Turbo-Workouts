@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>1 4 baxter</name>
+    <description>Baxter is 90 minutes of non-stop aerobic conditioning at 55-80% FTP where the effort changes based on cadence.Effectively a fixed-gear trainer ride with low to moderate effort levels that primarily utilize fat as the fuel source.&lt;br /&gt;</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="180"/>
+        <IntervalsT OnPower="0.5" OffPower="0.7" show_avg="1" Repeat="2" OffDuration="180" OnDuration="180">
+            <textevent message="2x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="0.6" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.8" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.8" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.8" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.64" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.8" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.8" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+    </workout>
+</workout_file>
