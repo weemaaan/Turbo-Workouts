@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>4x8</name>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup PowerHigh="0.55" PowerLow="0.35" Duration="300"/>
+        <IntervalsT OnPower="0.5" OffPower="0.55" show_avg="1" Repeat="4" Cadence="90" CadenceResting="85" OffDuration="60" OnDuration="60">
+            <textevent message="Do not push big power here 4x"/>
+        </IntervalsT>
+        <IntervalsT OnPower="0.9" OffPower="0.45" show_avg="1" Repeat="4" OffDuration="120" OnDuration="480">
+            <textevent message="4x"/>
+        </IntervalsT>
+        <Cooldown PowerHigh="0.35" PowerLow="0.45" Duration="300"/>
+    </workout>
+</workout_file>

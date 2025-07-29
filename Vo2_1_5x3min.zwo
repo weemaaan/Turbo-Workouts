@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>Vo2_1_5x3min</name>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup PowerHigh="0.75" PowerLow="0.4" Duration="600"/>
+        <IntervalsT OnPower="1.05" OffPower="0.55" show_avg="1" Repeat="4" OffDuration="30" OnDuration="30">
+            <textevent message="4x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="0.75" Duration="120"/>
+        <IntervalsT OnPower="1.1" OffPower="0.4" show_avg="1" Repeat="5" OffDuration="240" OnDuration="180">
+            <textevent message="5x"/>
+        </IntervalsT>
+        <Cooldown PowerHigh="0.4" PowerLow="0.5" Duration="300"/>
+    </workout>
+</workout_file>

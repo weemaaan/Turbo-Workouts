@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>Vo2_6</name>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup PowerHigh="0.65" PowerLow="0.55" Duration="540"/>
+        <IntervalsT OnPower="0.85" OffPower="0.55" show_avg="1" Repeat="3" OffDuration="60" OnDuration="60">
+            <textevent message="3x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="0.9" Duration="40">
+            <textevent message="1/2" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="1.05" Duration="40"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="40"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="40">
+            <textevent message="2/2" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="1.05" Duration="40"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="40"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="40"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="40"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="40"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="300"/>
+        <IntervalsT OnPower="1.2" OffPower="0.4" show_avg="1" Repeat="6" OffDuration="120" OnDuration="120">
+            <textevent message="6x"/>
+        </IntervalsT>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="360"/>
+    </workout>
+</workout_file>

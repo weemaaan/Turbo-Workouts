@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>Breakfast Returns Weak</name>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup PowerHigh="0.75" PowerLow="0.25" Duration="600"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.25" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="180">
+            <textevent message="1/3" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="180">
+            <textevent message="2/3" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="180">
+            <textevent message="3/3" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <Cooldown PowerHigh="0.25" PowerLow="0.5" Duration="300"/>
+    </workout>
+</workout_file>
