@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>8.2 Mont_Albert</name>
+    <description>Mont Albert is 1 hour of Tempo intervals spent between 70-80% FTP with intermittent, 1 to 3-minute recoveries at 55% FTP.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="180"/>
+        <Ramp PowerHigh="0.698" PowerLow="0.598" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.701" Duration="600"/>
+        <SteadyState show_avg="1" Power="0.5479999999999999" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7490000000000001" Duration="780"/>
+        <SteadyState show_avg="1" Power="0.5479999999999999" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.799" Duration="600"/>
+        <SteadyState show_avg="1" Power="0.552" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="660"/>
+        <Ramp PowerHigh="0.494" PowerLow="0.698" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="120"/>
+    </workout>
+</workout_file>

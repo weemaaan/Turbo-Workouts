@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>8.5 Warren</name>
+    <description>Warren consists of about 2 hours &amp; 15 minutes of aerobic Endurance riding spent between 60-70% FTP.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.55" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.579" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="1260"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="900"/>
+        <Ramp PowerHigh="0.6" PowerLow="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="1620"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="900"/>
+        <Ramp PowerHigh="0.6" PowerLow="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="1200"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="1020"/>
+        <Cooldown PowerHigh="0.5" PowerLow="0.7" Duration="300"/>
+    </workout>
+</workout_file>

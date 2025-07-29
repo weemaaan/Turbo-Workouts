@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>11.1_Mills</name>
+    <description>Mills consists of 3 sets of 3x2-minute VO2max repeats each starting at 120% FTP and finishing at 110% FTP.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.8" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="30"/>
+        <SteadyState show_avg="1" Power="1.3" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="210"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="45">
+            <textevent message="1/2" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="45">
+            <textevent message="2/2" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="45"/>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="360">
+            <textevent message="1/2" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="1.2" Duration="45"/>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="45"/>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="45"/>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="360">
+            <textevent message="2/2" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="1.2" Duration="45"/>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="45"/>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="45"/>
+        <Ramp PowerHigh="1.1" PowerLow="1.2" Duration="75"/>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="120"/>
+    </workout>
+</workout_file>

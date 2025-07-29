@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>7.5 Gibbs</name>
+    <description>Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70% FTP.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="900"/>
+        <Ramp PowerHigh="0.65" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="840"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.65" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="720"/>
+        <Ramp PowerHigh="0.66" PowerLow="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.66" Duration="1260"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.66" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="780"/>
+        <Ramp PowerHigh="0.65" PowerLow="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="480"/>
+        <Ramp PowerHigh="0.6" PowerLow="0.65" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="660"/>
+        <Cooldown PowerHigh="0.4" PowerLow="0.6" Duration="600"/>
+    </workout>
+</workout_file>

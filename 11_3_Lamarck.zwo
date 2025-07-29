@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>11.3_Lamarck</name>
+    <description>Lamarck is 4x10-minute intervals set right at FTP and the active recoveries between intervals are each 2 minutes long.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="240"/>
+        <IntervalsT OnPower="1.0" OffPower="0.4" show_avg="1" Repeat="3" OffDuration="120" OnDuration="600">
+            <textevent message="3x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="1.0" Duration="600"/>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="120"/>
+    </workout>
+</workout_file>

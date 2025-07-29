@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>8.1 Keeler_Needle</name>
+    <description>Keeler Needle consists of a total of 14 power ramps ranging from 115-150% FTP. Each set of ramps includes different recovery durations depending on the intensity of the preceding ramps, but none are very long.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="240"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.149" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <Ramp PowerHigh="1.28" PowerLow="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="30">
+            <textevent message="1/3" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.28" PowerLow="0.7" Duration="90"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="30">
+            <textevent message="2/3" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.28" PowerLow="0.7" Duration="90"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="30">
+            <textevent message="3/3" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.28" PowerLow="0.7" Duration="90"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <Ramp PowerHigh="1.39" PowerLow="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="120">
+            <textevent message="1/2" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.39" PowerLow="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="120">
+            <textevent message="2/2" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.39" PowerLow="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <Ramp PowerHigh="1.45" PowerLow="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="60">
+            <textevent message="1/4" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.45" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="60">
+            <textevent message="2/4" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.45" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="60">
+            <textevent message="3/4" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.45" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="60">
+            <textevent message="4/4" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="1.45" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <Ramp PowerHigh="1.29" PowerLow="0.4" Duration="300"/>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="300"/>
+    </workout>
+</workout_file>

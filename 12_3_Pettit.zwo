@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>12.3 Pettit</name>
+    <description>Pettit is an hour of aerobic Endurance work spent between 60-70% FTP.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="720"/>
+        <Ramp PowerHigh="0.65" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="720"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.65" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="720"/>
+        <Ramp PowerHigh="0.6" PowerLow="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="720"/>
+        <Cooldown PowerHigh="0.4" PowerLow="0.6" Duration="240"/>
+    </workout>
+</workout_file>

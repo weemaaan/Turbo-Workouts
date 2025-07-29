@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>8.3 Donner</name>
+    <description>Donner is 3x12-minute Threshold repeats which undulate between 95-99% FTP and 6-minute recoveries separate the intervals.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="240"/>
+        <Ramp PowerHigh="0.95" PowerLow="0.97" Duration="120"/>
+        <Ramp PowerHigh="0.99" PowerLow="0.97" Duration="60"/>
+        <Ramp PowerHigh="0.97" PowerLow="0.99" Duration="180"/>
+        <Ramp PowerHigh="0.95" PowerLow="0.97" Duration="120"/>
+        <Ramp PowerHigh="0.97" PowerLow="0.95" Duration="60"/>
+        <Ramp PowerHigh="0.99" PowerLow="0.97" Duration="120"/>
+        <Ramp PowerHigh="0.95" PowerLow="0.97" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="360"/>
+        <Ramp PowerHigh="0.99" PowerLow="0.95" Duration="240"/>
+        <Ramp PowerHigh="0.96" PowerLow="0.99" Duration="60"/>
+        <Ramp PowerHigh="0.98" PowerLow="0.96" Duration="120"/>
+        <Ramp PowerHigh="0.95" PowerLow="0.98" Duration="60"/>
+        <Ramp PowerHigh="0.99" PowerLow="0.95" Duration="120"/>
+        <Ramp PowerHigh="0.95" PowerLow="0.99" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="360"/>
+        <Ramp PowerHigh="0.99" PowerLow="0.95" Duration="120"/>
+        <Ramp PowerHigh="0.95" PowerLow="0.99" Duration="180"/>
+        <Ramp PowerHigh="0.99" PowerLow="0.95" Duration="240"/>
+        <Ramp PowerHigh="0.97" PowerLow="0.99" Duration="60"/>
+        <Ramp PowerHigh="0.99" PowerLow="0.97" Duration="120"/>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="120"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>11.2_Mont Gosford</name>
+    <description>Mont Gosford is 1.25 hours of Tempo intervals spent between 70-80% FTP with intermittent, 2 to 3-minute recoveries at 55% FTP.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="180"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.6" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="720"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.8" Duration="900"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="840"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="1020"/>
+        <Ramp PowerHigh="0.5" PowerLow="0.75" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.5" Duration="120"/>
+    </workout>
+</workout_file>

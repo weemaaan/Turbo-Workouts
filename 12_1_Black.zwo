@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>12.1 Black</name>
+    <description>Black is an hour of aerobic Endurance riding ranging from 50-80% FTP with no recovery.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="RECOVERY"/>
+    </tags>
+    <workout>
+        <Warmup PowerHigh="0.7040000000000001" PowerLow="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.68" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.72" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.68" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.72" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.66" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.71" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.69" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.68" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.74" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.78" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.72" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.82" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.66" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.73" Duration="60"/>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="300"/>
+    </workout>
+</workout_file>

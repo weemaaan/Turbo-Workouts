@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>11.5 KOIP</name>
+    <description>Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between 60-75% FTP. Optional form drills include Form Sprints and Endurance Spinning</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="ENDURANCE"/>
+    </tags>
+    <workout>
+        <Warmup PowerHigh="0.6" PowerLow="0.5" Cadence="90" Duration="480">
+            <textevent message="Cadence" duration="10"/>
+        </Warmup>
+        <SteadyState show_avg="1" Power="0.6" Cadence="96" Duration="1680">
+            <textevent message="Cadence" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="0.65" PowerLow="0.6" Cadence="96" Duration="60">
+            <textevent message="Cadence" duration="10"/>
+        </Ramp>
+        <SteadyState show_avg="1" Power="0.65" Cadence="100" Duration="660">
+            <textevent message="Cadence" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="0.7" PowerLow="0.65" Cadence="96" Duration="60">
+            <textevent message="Cadence" duration="10"/>
+        </Ramp>
+        <SteadyState show_avg="1" Power="0.7" Cadence="95" Duration="1200">
+            <textevent message="Cadence" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="0.6" PowerLow="0.7" Cadence="96" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.604" Cadence="90" Duration="840">
+            <textevent message="Cadence" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="0.7" PowerLow="0.6" Cadence="96" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7" Cadence="96" Duration="780">
+            <textevent message="Cadence" duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="0.65" PowerLow="0.7" Cadence="96" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Cadence="90" Duration="1560">
+            <textevent message="You'll be getting fatigued but..." duration="10"/>
+        </SteadyState>
+        <Ramp PowerHigh="0.7" PowerLow="0.65" Cadence="96" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.7040000000000001" Cadence="100" Duration="960">
+            <textevent message="Last interval before you cool down." duration="10"/>
+        </SteadyState>
+        <Cooldown PowerHigh="0.5" PowerLow="0.7" Cadence="90" Duration="480">
+            <textevent message="WELL DONE. 2.5hrs of solid work." duration="10"/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>11.4_Mary Austin</name>
+    <description>Mary Austin is 3 sets of 2x10-minute intervals consisting of 2-minute steps up from 95%-105% FTP and then back down again.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="240"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300">
+            <textevent message="1/3" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300">
+            <textevent message="2/3" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300">
+            <textevent message="3/3" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="120"/>
+    </workout>
+</workout_file>

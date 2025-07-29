@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>9.1 Haekel</name>
+    <description>Haeckel 3 sets of 4x3-minute Threshold intervals that can be treated as slow-force work.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.52" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.55" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="180">
+            <textevent message="1/2" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="180">
+            <textevent message="2/2" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.0" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="180"/>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="60"/>
+    </workout>
+</workout_file>

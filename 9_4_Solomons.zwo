@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>9.4 Solomons</name>
+    <description>Solomons is a combination of VO2max repeats with a 12-minute Tempo interval thrown in for good measure.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="150"/>
+        <SteadyState show_avg="1" Power="0.66" Duration="150"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.2" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.35" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="270"/>
+        <IntervalsT OnPower="1.149" OffPower="0.4" show_avg="1" Repeat="5" OffDuration="180" OnDuration="180">
+            <textevent message="5x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="1.149" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="720"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <IntervalsT OnPower="1.3" OffPower="0.4" show_avg="1" Repeat="3" OffDuration="240" OnDuration="120">
+            <textevent message="3x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="1.3" Duration="120"/>
+        <Cooldown PowerHigh="0.3" PowerLow="0.4" Duration="360"/>
+    </workout>
+</workout_file>
