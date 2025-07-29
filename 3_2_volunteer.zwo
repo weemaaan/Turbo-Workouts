@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>3 2 volunteer</name>
+    <description>Volunteer is 30 minutes of aerobic Endurance riding spent somewhere between 65-75% FTP.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="360"/>
+        <Ramp PowerHigh="0.75" PowerLow="0.7" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.75" Duration="360"/>
+        <Ramp PowerHigh="0.65" PowerLow="0.75" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="360"/>
+        <Ramp PowerHigh="0.5" PowerLow="0.65" Duration="300"/>
+    </workout>
+</workout_file>

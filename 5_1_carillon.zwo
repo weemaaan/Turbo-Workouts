@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>5 1 carillon</name>
+    <description>Carillon consists of 2 sets of 2x10-minute Criss-Cross intervals ranging between 88-90% FTP during the 2-minute valleys &amp; 92-95% FTP during the 30-second surges as each interval weaves back &amp; forth across the Sweet Spot power range.&lt;br /&gt;&lt;br /&gt;    1 minute of recovery separates the intervals &amp; 5 minutes of recovery separate the 2 sets.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="270"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="30"/>
+        <Ramp PowerHigh="0.3" PowerLow="0.4" Duration="180"/>
+    </workout>
+</workout_file>

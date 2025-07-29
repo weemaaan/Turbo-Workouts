@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>4 3 geiger</name>
+    <description>Geiger is 3x12-minute efforts spent in the Sweet Spot (88-94% FTP) with brief, 3-minute recoveries between efforts.&lt;br /&gt;</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Ramp PowerHigh="0.65" PowerLow="0.5" Duration="240"/>
+        <SteadyState show_avg="1" Power="0.8" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.85" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="30"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="720"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.94" Duration="720"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="720"/>
+        <Ramp PowerHigh="0.3" PowerLow="0.4" Duration="300"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>3 3 carson</name>
+    <description>Carson is 6x5 to 7-minute Sweet Spot intervals (88-94% FTP) separated by intentionally brief, 2-minute recoveries.&lt;br /&gt;&lt;br /&gt;    Optional hill climbing drills are included and optional muscle control work in the form of slow-cadence recommendations are offered as well.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Ramp PowerHigh="0.65" PowerLow="0.5" Duration="240"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="300"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.9" Duration="360"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.94" Duration="360"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.88" Duration="420"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.92" Duration="420"/>
+        <Ramp PowerHigh="0.3" PowerLow="0.4" Duration="120"/>
+    </workout>
+</workout_file>

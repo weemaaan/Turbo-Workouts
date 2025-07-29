@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>5 2 taku</name>
+    <description>Taku is a short, aerobic Endurance workout consisting of 30 minutes spent between 60-70% FTP.&lt;br /&gt;&lt;br /&gt;Taku can serve as a light workout on its own, it can be paired with a short, intense interval session, beforehand or afterward, or it can be used to get you on the bike between hard workouts in order to spin out some heaviness.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="300"/>
+        <Ramp PowerHigh="0.7" PowerLow="0.65" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.7" Duration="300"/>
+        <Ramp PowerHigh="0.6" PowerLow="0.7" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.6" Duration="360"/>
+        <Ramp PowerHigh="0.4" PowerLow="0.6" Duration="300"/>
+    </workout>
+</workout_file>

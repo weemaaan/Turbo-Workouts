@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>5 4 palisade</name>
+    <description>Palisade is 5x9-minute intervals alternating slightly above or slightly below FTP. Each interval is a combination of 1-minute efforts at 95% FTP followed immediatly by 2-minute efforts at 105% FTP.&lt;br /&gt;&lt;br /&gt;    6 minutes of recovery fall between intervals.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState show_avg="1" Power="0.5" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.65" Duration="240"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+        <IntervalsT OnPower="0.95" OffPower="1.05" show_avg="1" Repeat="3" OffDuration="120" OnDuration="60">
+            <textevent message="3x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="0.4" Duration="360">
+            <textevent message="1/4" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="360">
+            <textevent message="2/4" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="360">
+            <textevent message="3/4" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="360">
+            <textevent message="4/4" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="60"/>
+        <SteadyState show_avg="1" Power="1.05" Duration="120"/>
+        <Ramp PowerHigh="0.3" PowerLow="0.4" Duration="360"/>
+    </workout>
+</workout_file>

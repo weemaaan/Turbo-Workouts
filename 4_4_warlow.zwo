@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workout_file>
+    <author>James Futcher</author>
+    <name>4 4 warlow</name>
+    <description>Warlow is 5x9-minute over-under intervals alternating between 2 minutes at 95% FTP and 1 minute at 110% FTP with 6-minute recoveries between intervals.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Ramp PowerHigh="0.65" PowerLow="0.5" Duration="420"/>
+        <Ramp PowerHigh="1.1" PowerLow="0.95" Duration="180"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="300"/>
+        <IntervalsT OnPower="0.95" OffPower="1.1" show_avg="1" Repeat="3" OffDuration="60" OnDuration="120">
+            <textevent message="3x"/>
+        </IntervalsT>
+        <SteadyState show_avg="1" Power="0.4" Duration="360">
+            <textevent message="1/4" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="360">
+            <textevent message="2/4" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="360">
+            <textevent message="3/4" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.4" Duration="360">
+            <textevent message="4/4" duration="10"/>
+        </SteadyState>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <SteadyState show_avg="1" Power="0.95" Duration="120"/>
+        <SteadyState show_avg="1" Power="1.1" Duration="60"/>
+        <Ramp PowerHigh="0.3" PowerLow="0.4" Duration="360"/>
+    </workout>
+</workout_file>
